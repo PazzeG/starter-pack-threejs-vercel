@@ -3,15 +3,16 @@
   "version": "1.0.0",
   "description": "cli strater pack with dependencies of the three js journey",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PazzeG/starter-pack-threejs-vercel.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Guillaume Pazze (guillaumepazze.com)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/PazzeG/starter-pack-threejs-vercel/issues"
   },

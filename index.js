@@ -13,7 +13,7 @@ inquirer.prompt([
     },
 ]).then(project => {
     console.log(`Gnénération du projet ${project.name}`);
-    runCmd('npm.cmd', ['init', '&&', 'i', 
+    runCmd('npm.cmd', ['i', 
     '@babel/core',
     '@babel/preset-env', 
     'babel-loader', 
