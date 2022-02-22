@@ -1,0 +1,22 @@
+{
+  "name": "starter-pack-threejs-vercel",
+  "version": "1.0.0",
+  "description": "cli strater pack with dependencies of the three js journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PazzeG/starter-pack-threejs-vercel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PazzeG/starter-pack-threejs-vercel/issues"
+  },
+  "homepage": "https://github.com/PazzeG/starter-pack-threejs-vercel#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
