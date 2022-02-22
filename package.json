@@ -1,6 +1,6 @@
 {
   "name": "starter-pack-threejs-vercel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli strater pack with dependencies of the three js journey",
   "main": "index.js",
   "bin": "index.js",
